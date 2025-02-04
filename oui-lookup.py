@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python3
 
 # by M0rPH3U5
 
