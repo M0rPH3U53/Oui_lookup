@@ -1,4 +1,6 @@
-#!/home/kali/Desktop/scripts/venv/bin/python
+#!//bin/python
+
+# by M0rPH3U5
 
 import time
 
