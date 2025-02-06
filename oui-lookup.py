@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+import time
+
+from ouilookup import OuiLookup
+
 print(
     """
 
@@ -15,10 +19,6 @@ _______          _________   _        _______  _______  _                 ______
 by M0rPH3U53                                                              
 """
 )
-
-import time
-
-from ouilookup import OuiLookup
 
 print(OuiLookup().query(input("Entrez une address MAC: ")))
 
