@@ -1,6 +1,6 @@
 # Oui lookup
 
-Recherche le fabriquants des adresse MAC
+Recherche le fabriquants d'adresse MAC
 
 Dependance
 
